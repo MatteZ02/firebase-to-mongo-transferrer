@@ -1,0 +1,21 @@
+{
+  "name": "firebase-to-mongo-transferrer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatteZ02/firebase-to-mongo-transferrer.git"
+  },
+  "author": "MatteZ02",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MatteZ02/firebase-to-mongo-transferrer/issues"
+  },
+  "homepage": "https://github.com/MatteZ02/firebase-to-mongo-transferrer#readme",
+  "dependencies": {
+    "firebase": "^8.0.2",
+    "firebase-admin": "^9.4.1",
+    "mongodb": "^3.6.3"
+  }
+}
